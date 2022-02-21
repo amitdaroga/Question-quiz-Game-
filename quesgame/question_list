@@ -1,0 +1,13 @@
+i_am_amit_adroga a.a  b.b c.c d.d a
+what_is_python_? a.a  b.b c.c d.d a
+sum_of_5+10_? a.10  b.12 c.15 d.20 c
+sub_of_5-10_? a.10  b.5 c.15 d.20 b
+malti_of_5*10_? a.10  b.12 c.50 d.20 c
+div_of_10/5_? a.2  b.12 c.50 d.20 a
+mod_of_5%10_? a.2  b.12 c.0 d.20 c
+how_many_method_in_set_? a.onlyset  b.2 c.5 d.12 a
+what_is_this_output_print(len("hello"))_? a.5  b.3 c.4 d.1 a
+what_is_output_this_code_print(type("hello"))_? a.str  b.float c.int d.bool a
+list=[1,2,3,4,4,5]_what_is_output_print(list)_? a.1,2,3,4,4,5  b.error c.1,2,3,4,5 d.1,2,3,5 a
+set=(1,2,3,4,4,5,6)_what_is_output_print(set)_? a.1,2,3,4,4,5,6  b.1,2,3,4,5,6 c.error d.1,2,3,5,6 b
+print(list(set(lista)))_what_is_type_of_lista_? a.set  b.list c.error d.tuple b
